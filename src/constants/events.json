@@ -1,0 +1,82 @@
+[
+  {
+    "deviceId": "7b469919-3c67-4b92-9e0c-35f914d3f516",
+    "eventType": "acceleration",
+    "severity": 12,
+    "latitude": 51.466712,
+    "longitude": 12.336594,
+    "timestamp": 1571073328324679000
+  },
+  {
+    "deviceId": "6058ca5c-85b7-4ad9-adff-4afc5c13a2e0",
+    "eventType": "collision",
+    "severity": 95,
+    "latitude": 53.468712,
+    "longitude": 14.333594,
+    "timestamp": 1580633690262857926
+  },
+  {
+    "deviceId": "61cb17e8-1893-46cd-9995-54084fe362cf",
+    "eventType": "breaking",
+    "severity": 21,
+    "latitude": 53.398712,
+    "longitude": 12.493594,
+    "timestamp": 1580633864839240565
+  },
+  {
+    "deviceId": "7b469919-3c67-4b92-9e0c-35f914d3f516",
+    "eventType": "acceleration",
+    "severity": 33,
+    "latitude": 52.468712,
+    "longitude": 12.333694,
+    "timestamp": 1581154082978383569
+  },
+  {
+    "deviceId": "6058ca5c-85b7-4ad9-adff-4afc5c13a2e0",
+    "eventType": "collision",
+    "severity": 84,
+    "latitude": 51.468744,
+    "longitude": 12.333599,
+    "timestamp": 1581144928436264647
+  },
+  {
+    "deviceId": "7b469919-3c67-4b92-9e0c-35f914d3f516",
+    "eventType": "breaking",
+    "severity": 33,
+    "latitude": 51.468812,
+    "longitude": 12.333694,
+    "timestamp": 1581162536403582973
+  },
+  {
+    "deviceId": "7b469919-3c67-4b92-9e0c-35f914d3f516",
+    "eventType": "acceleration",
+    "severity": 54,
+    "latitude": 51.268712,
+    "longitude": 12.133594,
+    "timestamp": 1581163056052671592
+  },
+  {
+    "deviceId": "6058ca5c-85b7-4ad9-adff-4afc5c13a2e0",
+    "eventType": "collision",
+    "severity": 45,
+    "latitude": 51.478712,
+    "longitude": 12.334594,
+    "timestamp": 1581162551190010890
+  },
+  {
+    "deviceId": "61cb17e8-1893-46cd-9995-54084fe362cf",
+    "eventType": "breaking",
+    "severity": 27,
+    "latitude": 54.462712,
+    "longitude": 13.332594,
+    "timestamp": 1581162536403582973
+  },
+  {
+    "deviceId": "7b469919-3c67-4b92-9e0c-35f914d3f516",
+    "eventType": "breaking",
+    "severity": 38,
+    "latitude": 51.469712,
+    "longitude": 12.343594,
+    "timestamp": 1581162536403582973
+  }
+]
