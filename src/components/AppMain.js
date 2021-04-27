@@ -18,6 +18,7 @@ import { Switch, Route } from "react-router-dom";
 
 import Dashboard from "./pages/dashboard/dashboard";
 import Table from "./pages/table/table";
+import Map from "./pages/map/map";
 
 import { mainListItems } from "./listItems";
 
@@ -160,7 +161,7 @@ export default function AppMain() {
           <Table />
         </Route>
         <Route path="/map">
-          <Dashboard />
+          <Map />
         </Route>
       </Switch>
     </div>

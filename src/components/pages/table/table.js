@@ -3,7 +3,6 @@ import { makeStyles } from "@material-ui/core/styles";
 import Container from "@material-ui/core/Container";
 import Grid from "@material-ui/core/Grid";
 import Paper from "@material-ui/core/Paper";
-import Orders from "./Orders";
 import Logs from "./Logs";
 
 const useStyles = makeStyles((theme) => ({
@@ -39,11 +38,6 @@ function Dashboard(props) {
             <Grid item xs={12}>
               <Paper className={classes.paper}>
                 <Logs />
-              </Paper>
-            </Grid>
-            <Grid item xs={12}>
-              <Paper className={classes.paper}>
-                <Orders />
               </Paper>
             </Grid>
           </Grid>
